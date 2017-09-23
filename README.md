@@ -18,9 +18,11 @@ People who can provide help can place their location on the map and provide info
 
 ## Segments
 
-### ![Landing page](./lifepins/images/landing-page.png)
+### Landing Page
+![Landing page](./lifepins/images/landing-page.png?raw=true)
 
-### ![Remove marker](./lifepins/images/remove-marker.png)
+### Remove Marker
+![Remove marker](./lifepins/images/remove-marker.png?raw=true)
 
 
 ## Things we covered on this project:
