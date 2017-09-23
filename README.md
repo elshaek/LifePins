@@ -5,6 +5,9 @@ Map app that lets users who need help in the event of disasters find a place whe
 
 People who can provide help can place their location on the map and provide information on what they can help (ie. food, water, bed, shower) with and the number of people they can accommodate.
 
+## Deployed on Heroku
+
+[LifePins](https://lifepins.herokuapp.com/)
 
 ## User stories
 
@@ -15,11 +18,9 @@ People who can provide help can place their location on the map and provide info
 
 ## Segments
 
-### Landing page
-![Landing page](./lifepins/images/landing-page.png)
+### ![Landing page](./lifepins/images/landing-page.png)
 
-### Remove marker
-![Remove marker](./lifepins/images/remove-marker.png)
+### ![Remove marker](./lifepins/images/remove-marker.png)
 
 
 ## Things we covered on this project:
