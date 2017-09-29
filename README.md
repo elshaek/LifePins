@@ -1,5 +1,5 @@
 
-# LifePins :round_pushpin:
+# AidPins :round_pushpin:
 
 Map app that lets users who need help in the event of disasters find a place where they can get help.
 
@@ -7,7 +7,11 @@ People who can provide help can place their location on the map and provide info
 
 ## Deployed on Heroku
 
-[LifePins](https://lifepins.herokuapp.com/)
+[AidPins](https://lifepins.herokuapp.com/)
+
+## Presentation at TechCrunch Disrupt Hackathon 2017
+
+[AidPins](https://techcrunch.com/video/aidpins/59bed2a6b90afb349fbecb79/)
 
 ## User stories
 
